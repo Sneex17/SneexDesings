@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="sneexdesings.client/sneexdesings.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="SneexDesings.Server/SneexDesings.Server.csproj" />
+</Solution>

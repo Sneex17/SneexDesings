@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnUUk1Dc240=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xrami\\OneDrive\\Documentos\\WebSneex\\SneexDesings\\SneexDesings\\SneexDesings.Server\\SneexDesings.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xrami\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.17\\microsoft.aspnetcore.openapi.9.0.17.nupkg.sha512",
+    "C:\\Users\\xrami\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\9.0.17\\microsoft.aspnetcore.spaproxy.9.0.17.nupkg.sha512",
+    "C:\\Users\\xrami\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

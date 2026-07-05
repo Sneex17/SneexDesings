@@ -1,0 +1,6 @@
+@SneexDesings.Server_HostAddress = http://localhost:5013
+
+GET {{SneexDesings.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
