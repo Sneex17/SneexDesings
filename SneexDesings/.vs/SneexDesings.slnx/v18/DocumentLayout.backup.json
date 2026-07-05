@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\xrami\\OneDrive\\Documentos\\WebSneex\\SneexDesings\\SneexDesings\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71DC3B4D-BCEC-4472-D960-A69759EEAF8D}|SneexDesings.Server\\SneexDesings.Server.csproj|c:\\users\\xrami\\onedrive\\documentos\\websneex\\sneexdesings\\sneexdesings\\sneexdesings.server\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DC3B4D-BCEC-4472-D960-A69759EEAF8D}|SneexDesings.Server\\SneexDesings.Server.csproj|solutionrelative:sneexdesings.server\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DC3B4D-BCEC-4472-D960-A69759EEAF8D}|SneexDesings.Server\\SneexDesings.Server.csproj|c:\\users\\xrami\\onedrive\\documentos\\websneex\\sneexdesings\\sneexdesings\\sneexdesings.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DC3B4D-BCEC-4472-D960-A69759EEAF8D}|SneexDesings.Server\\SneexDesings.Server.csproj|solutionrelative:sneexdesings.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +55,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesignController.cs",
+              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\WebSneex\\SneexDesings\\SneexDesings\\SneexDesings.Server\\Controllers\\DesignController.cs",
+              "RelativeDocumentMoniker": "SneexDesings.Server\\Controllers\\DesignController.cs",
+              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\WebSneex\\SneexDesings\\SneexDesings\\SneexDesings.Server\\Controllers\\DesignController.cs",
+              "RelativeToolTip": "SneexDesings.Server\\Controllers\\DesignController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T20:58:27.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\WebSneex\\SneexDesings\\SneexDesings\\SneexDesings.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SneexDesings.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\WebSneex\\SneexDesings\\SneexDesings\\SneexDesings.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SneexDesings.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T20:57:50.176Z"
             }
           ]
         }

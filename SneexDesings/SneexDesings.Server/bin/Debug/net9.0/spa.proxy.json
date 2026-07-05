@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:64913",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\xrami\\OneDrive\\Documentos\\WebSneex\\SneexDesings\\SneexDesings\\SneexDesings.Server\\..\\sneexdesings.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
