@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SneexDesings.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+591f7ca2dca206c7c8beec20cea3cb67f27e798d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73e6d094c7d43e1d74ac14a90d57a019cdb3c95b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SneexDesings.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SneexDesings.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
