@@ -3,6 +3,11 @@
     <Navbar /> <div class="container-views">
       <RouterView />
     </div>
+    <footer>
+      <div class="container-footer">
+        <h4>© Todo los derechos reservados, 2026</h4>
+      </div>
+    </footer>
   </div>
 </template>
 
@@ -23,5 +28,14 @@
     flex-grow: 1;
     width: 100%;
     padding: 20px;
+  }
+  .container-footer{
+      display: flex;
+      justify-content: center;
+      align-items:center;
+      width:100%;
+      height:100px;
+      background-color:brown;
+
   }
 </style>
