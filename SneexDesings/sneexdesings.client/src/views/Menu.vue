@@ -27,7 +27,6 @@
   .container-views {
     flex-grow: 1;
     width: 100%;
-    padding: 20px;
   }
   .container-footer{
       display: flex;

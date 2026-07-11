@@ -1,18 +1,23 @@
 <template>
-  <div v-if="lista.length > 0"class="container-main">
+  <div v-if="lista.length > 0" class="container-main">
     <div v-for="item in lista" :key="item.productdesignid" class="card-design">
       <img :src="item.img" />
       <div class="card-info">
         <h5>{{item.title}}</h5>
         <h6 :class="[item.category === 'Aventureros' ? 'cateory-a1' :
             item.category === 'Conquistadores' ? 'cateory-c1' :
-            item.category === 'Guías Mayores' ? 'cateory-g1' : 'cateory-j1']">{{item.category}}</h6>
+            item.category === 'Guías Mayores' ? 'cateory-g1' : 'cateory-j1']">
+          {{item.category}}
+        </h6>
         <p>{{item.description}}</p>
         <h6 class="fecha-info">{{item.fecha}}</h6>
       </div>
     </div>
   </div>
+
+
   
+
 </template>
 
 <script setup lang="ts">
